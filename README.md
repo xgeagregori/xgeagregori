@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Xavier!
-I'm a **Software Engineer** and double-degree student pursuing a **Masters degree in Engineering** and an **Msc in Software Engineering*. 
+I'm a **Software Engineer** and double-degree student pursuing a **Masters degree in Engineering** and an **Msc in Software Engineering**. 
 
 
 ## 🌱 What I'm currently learning.
