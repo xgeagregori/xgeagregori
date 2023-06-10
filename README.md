@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Xavier!
-I'm a **Software Engineer** and double-degree student pursuing a **Masters degree in Engineering** and an **Msc in Software Engineering**. 
+I'm a **Software Engineer** and double-degree student pursuing a **Masters degree in Engineering** and an **MSc in Software Engineering**. 
 
 
 ## 🌱 What I'm currently learning.
@@ -7,7 +7,7 @@ Currently, I'm diving into the exciting world of **AWS** and **AI** to expand my
 
 
 ## 🤖 What I'm currently working on.
-When I'm not working on projects, you can find me busy with my **Msc dissertation**, where I'm evaluating the performance of LLMs to control robots using natural language prompts.
+When I'm not working on projects, you can find me busy with my **MSc dissertation**, where I'm evaluating the performance of LLMs to control robots using natural language prompts.
 
 
 ## 📖 Concepts I've learned about.
