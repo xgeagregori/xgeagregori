@@ -1,14 +1,13 @@
 # Hi there 👋, I'm Xavier!
-I'm a **Software Engineer** and double-degree student pursuing a **Masters degree in Engineering** and an **MSc in Software Engineering**. 
-
+I'm a **Software Engineer** based in Lyon, France, passionate about crafting innovative solutions to real-world challenges. With extensive experience in leading and managing projects, I thrive in dynamic environments where learning and adapting quickly is key.
 
 ## 🌱 What I'm currently learning.
-Currently, I'm diving into the exciting world of **AWS** and **AI** to expand my skillset.
+- I'm working on my NgRx and RxJS skills to build scalable and maintainable front-end applications with Angular.
+- I'm also continuously refining my skills in developing REST API microservices using Node.js.
+- I'm enhancing my leadership and project management abilities.
 
-
-## 🤖 What I'm currently working on.
-When I'm not working on projects, you can find me busy with my **MSc dissertation**, where I'm evaluating the performance of LLMs to control robots using natural language prompts.
-
+## 🛠️ What I'm currently working on.
+My work at Ansys involves everything from front-end development in Angular to building core microservices with Node.js. My role also involves setting code quality, testing and maintainability policies, as well as handling task planning, estimation, description and assignment to ensure project success.
 
 ## 📖 Concepts I've learned about.
 ![DS&A](https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-facc15.svg?style=for-the-badge)
@@ -32,10 +31,13 @@ When I'm not working on projects, you can find me busy with my **MSc dissertatio
 ![React](https://img.shields.io/badge/React-facc15.svg?style=for-the-badge&logo=React&logoColor=black)
 ![Redux](https://img.shields.io/badge/Redux-facc15.svg?style=for-the-badge&logo=Redux&logoColor=black)
 ![React Native](https://img.shields.io/badge/React%20Native-facc15.svg?style=for-the-badge&logo=React&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-facc15.svg?style=for-the-badge&logo=Angular&logoColor=black)
+![NgRx](https://img.shields.io/badge/NgRx-facc15.svg?style=for-the-badge&logo=Ngrx&logoColor=black)
 ![Nodejs](https://img.shields.io/badge/Node.js-facc15.svg?style=for-the-badge&logo=nodedotjs&logoColor=black)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-facc15.svg?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-facc15.svg?style=for-the-badge&logo=PostgreSQL&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-facc15.svg?style=for-the-badge&logo=MongoDB&logoColor=black)
+![Neo4j](https://img.shields.io/badge/Neo4j-facc15.svg?style=for-the-badge&logo=Neo4j&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-facc15.svg?style=for-the-badge&logo=Docker&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-facc15.svg?style=for-the-badge&logo=Git&logoColor=black)
 ![AWS](https://img.shields.io/badge/Amazon%20AWS-facc15.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=black)
