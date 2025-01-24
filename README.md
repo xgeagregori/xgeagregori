@@ -1,23 +1,8 @@
 # Hi there 👋, I'm Xavier!
 I'm a **Software Engineer** based in Lyon, France, passionate about crafting innovative solutions to real-world challenges. With extensive experience in leading and managing projects, I thrive in dynamic environments where learning and adapting quickly is key.
 
-## 🌱 What I'm currently learning.
-- I'm working on my NgRx and RxJS skills to build scalable and maintainable front-end applications with Angular.
-- I'm also continuously refining my skills in developing REST API microservices using Node.js.
-- I'm enhancing my leadership and project management abilities.
-
 ## 🛠️ What I'm currently working on.
 My work at Ansys involves everything from front-end development in Angular to building core microservices with Node.js. My role also involves setting code quality, testing and maintainability policies, as well as handling task planning, estimation, description and assignment to ensure project success.
-
-## 📖 Concepts I've learned about.
-![DS&A](https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-facc15.svg?style=for-the-badge)
-![BigO](https://img.shields.io/badge/Complexity%20Analysis-facc15.svg?style=for-the-badge)
-![OOP](https://img.shields.io/badge/Object%20Oriented%20Programming-facc15.svg?style=for-the-badge)
-![ML](https://img.shields.io/badge/Machine%20Learning-facc15.svg?style=for-the-badge)
-![UML](https://img.shields.io/badge/UML-facc15.svg?style=for-the-badge)
-![Agile](https://img.shields.io/badge/Agile%20Methodology%20Analysis-facc15.svg?style=for-the-badge)
-![PM](https://img.shields.io/badge/Project%20Management-facc15.svg?style=for-the-badge)
-
 
 ## 💻 Technologies I've worked with.
 ![Python](https://img.shields.io/badge/Python-facc15.svg?style=for-the-badge&logo=Python&logoColor=black)
