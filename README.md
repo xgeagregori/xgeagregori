@@ -1,8 +1,8 @@
 # Hi there 👋, I'm Xavier!
-I'm a **Software Engineer** based in Lyon, France, passionate about crafting innovative solutions to real-world challenges. With extensive experience in leading and managing projects, I thrive in dynamic environments where learning and adapting quickly is key.
+I'm a **Software Engineer** based in Lyon, France, passionate about crafting innovative solutions to real-world challenges. I thrive in dynamic environments where learning and adapting quickly is key.
 
 ## 🛠️ What I'm currently working on.
-My work at Ansys involves everything from front-end development in Angular to building core microservices with Node.js. My role also involves setting code quality, testing and maintainability policies, as well as handling task planning, estimation, description and assignment to ensure project success.
+My work at Synopsys (Ansys) involves everything from front-end development in Angular to building core microservices with Node.js. My role also involves setting code quality, testing and maintainability policies, as well as handling task planning, estimation, description and assignment to ensure project success.
 
 ## 💻 Technologies I've worked with.
 ![Python](https://img.shields.io/badge/Python-facc15.svg?style=for-the-badge&logo=Python&logoColor=black)
